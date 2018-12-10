@@ -12,6 +12,6 @@ public class CritterIcons {
     public final static String TIGER = "\uD83D\uDC05";
     public final static String LION = "\uD83E\uDD81";
     public final static String PENGUIN = "\uD83D\uDC27";
-    public final static String WOLF = "";
+    public final static String WOLF = "\uD83D\uDC3A";
 
 }

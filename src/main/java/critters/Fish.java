@@ -5,4 +5,10 @@ public class Fish extends Animal{
         super(weight);
         symbol = "F";
     }
+
+    @Override
+    public String getMovement() {
+        return "Swims";
+    }
+
 }

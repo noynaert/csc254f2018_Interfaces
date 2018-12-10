@@ -5,4 +5,9 @@ public class Lion extends Mammal {
         super(weight);
         symbol = CritterIcons.LION;
     }
+
+    @Override
+    public String getMovement() {
+        return "walks";
+    }
 }

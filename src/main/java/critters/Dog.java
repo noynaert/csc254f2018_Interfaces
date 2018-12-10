@@ -5,5 +5,9 @@ public class Dog extends Mammal {
         super(weight);
         symbol = CritterIcons.DOG;
     }
+    @Override
+    public String getMovement() {
+        return "walks";
+    }
 
 }
